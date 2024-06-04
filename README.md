@@ -1,16 +1,16 @@
 # opa
 
 A new Flutter project.
-![preview](./lib/assets/screeshots/1.jpg?raw=true)
-![preview](./lib/assets/screeshots/2.jpg?raw=true)
-![preview](./lib/assets/screeshots/3.jpg?raw=true)
-![preview](./lib/assets/screeshots/4.jpg?raw=true)
-![preview](./lib/assets/screeshots/5.jpg?raw=true)
-![preview](./lib/assets/screeshots/6.jpg?raw=true)
-![preview](./lib/assets/screeshots/7.jpg?raw=true)
-![preview](./lib/assets/screeshots/8.jpg?raw=true)
-![preview](./lib/assets/screeshots/9.jpg?raw=true)
-![preview](./lib/assets/screeshots/10.jpg?raw=true)
+![preview](lib/assets/screeshots/1.jpg?raw=true)
+![preview](lib/assets/screeshots/2.jpg?raw=true)
+![preview](lib/assets/screeshots/3.jpg?raw=true)
+![preview](lib/assets/screeshots/4.jpg?raw=true)
+![preview](lib/assets/screeshots/5.jpg?raw=true)
+![preview](lib/assets/screeshots/6.jpg?raw=true)
+![preview](lib/assets/screeshots/7.jpg?raw=true)
+![preview](lib/assets/screeshots/8.jpg?raw=true)
+![preview](lib/assets/screeshots/9.jpg?raw=true)
+![preview](lib/assets/screeshots/10.jpg?raw=true)
 
 
 ## Getting Started
