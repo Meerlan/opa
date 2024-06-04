@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "16015287446",
+    "firebase_url": "https://pelagic-tracker-423914-u7-default-rtdb.firebaseio.com",
+    "project_id": "pelagic-tracker-423914-u7",
+    "storage_bucket": "pelagic-tracker-423914-u7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:28271b9146a9df4cf84eb7",
+        "android_client_info": {
+          "package_name": "com.example.home_services_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:c5a6d6b93b29da06f84eb7",
+        "android_client_info": {
+          "package_name": "com.example.instant_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:fe4a17ac97a9dd65f84eb7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:a39451178cc3b661f84eb7",
+        "android_client_info": {
+          "package_name": "com.example.super_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:095a8f9b92043cb8f84eb7",
+        "android_client_info": {
+          "package_name": "com.homeservices.homservicefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:f7b48ebfd2599394f84eb7",
+        "android_client_info": {
+          "package_name": "com.iluke.homevio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:dcf864d6cab9ae92f84eb7",
+        "android_client_info": {
+          "package_name": "com.opa.opa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16015287446:android:b825e39b6e3835caf84eb7",
+        "android_client_info": {
+          "package_name": "com.zain.zainlak_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx5NyBkmUGSI-1cvap_FUmq_bTvMmwEJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
