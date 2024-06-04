@@ -1,16 +1,32 @@
 # opa
 
 A new Flutter project.
-![preview](lib/assets/screeshots/1.jpg?raw=true)
-![preview](lib/assets/screeshots/2.jpg?raw=true)
-![preview](lib/assets/screeshots/3.jpg?raw=true)
-![preview](lib/assets/screeshots/4.jpg?raw=true)
-![preview](lib/assets/screeshots/5.jpg?raw=true)
-![preview](lib/assets/screeshots/6.jpg?raw=true)
-![preview](lib/assets/screeshots/7.jpg?raw=true)
-![preview](lib/assets/screeshots/8.jpg?raw=true)
-![preview](lib/assets/screeshots/9.jpg?raw=true)
-![preview](lib/assets/screeshots/10.jpg?raw=true)
+<p align="center">
+  <img src="lib/assets/screenshots/1.jpg" alt="Light Theme" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="lib/assets/screenshots/2.jpg" alt="Dark Theme" width="45%">
+</p>
+<p align="center">
+  <img src="lib/assets/screenshots/3.jpg" alt="Light Theme" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="lib/assets/screenshots/4.jpg" alt="Dark Theme" width="45%">
+</p>
+<p align="center">
+  <img src="lib/assets/screenshots/5.jpg" alt="Light Theme" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="lib/assets/screenshots/6.jpg" alt="Dark Theme" width="45%">
+</p>
+<p align="center">
+  <img src="lib/assets/screenshots/7.jpg" alt="Light Theme" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="lib/assets/screenshots/8.jpg" alt="Dark Theme" width="45%">
+</p>
+<p align="center">
+  <img src="lib/assets/screenshots/9.jpg" alt="Light Theme" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="lib/assets/screenshots/10.jpg" alt="Dark Theme" width="45%">
+</p>
+
 
 
 ## Getting Started
